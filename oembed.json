@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "title": "The Positive Plan for Corby, on one map",
+  "author_name": "Corby Liberal Democrats",
+  "author_url": "https://www.northnorthantslibdems.org.uk/in-your-area/corby/positive-plan",
+  "provider_name": "Corby Liberal Democrats",
+  "provider_url": "https://madlockuk.github.io/Corby-Positive-Plan/",
+  "html": "<iframe src=\"https://madlockuk.github.io/Corby-Positive-Plan/?embed=1\" title=\"Positive Plan for Corby map\" width=\"100%\" height=\"600\" style=\"border:0;max-width:100%\" loading=\"lazy\" allowfullscreen></iframe>",
+  "width": 960,
+  "height": 600,
+  "thumbnail_url": "https://madlockuk.github.io/Corby-Positive-Plan/img/preview.png",
+  "thumbnail_width": 1200,
+  "thumbnail_height": 630
+}
